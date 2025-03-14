@@ -1,0 +1,10 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+create-folder/testFolder
+record-logs/logs
+save-image/savedImages
+transfer-excel-file/filesToTest/exportedData.xlsx
+transfer-json-file/filesToTest/exportedData.json
